@@ -1,0 +1,23 @@
+<project>
+      <groupId>com.github.iJackyVon</groupId>
+      <artifactId>ant</artifactId>
+      <version>1.0.0</version>
+  <modelVersion>4.0.0</modelVersion>  
+
+  <repositories>
+    <repository>
+      <id>ijackyvon-maven-snapshot-repository</id>
+      <name>ijackyvon-maven-snapshot-repository</name>
+      <url>https://raw.github.com/iJackyVon/Maven/snapshot/</url>
+    </repository>
+  </repositories>
+  
+  <dependencies>
+    <dependency>
+      <groupId>com.github.iJackyVon</groupId>
+      <artifactId>ant</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+  </dependencies>
+  
+</project>
